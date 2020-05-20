@@ -3,6 +3,7 @@
 
 # Path to your oh-my-zsh installation.
 export ZSH="/home/arch/.oh-my-zsh"
+export exa='/home/arch/.cargo/bin/'
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -69,7 +70,7 @@ ZSH_THEME='agnoster'
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(git colored-man-pages)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -81,11 +82,11 @@ source $ZSH/oh-my-zsh.sh
 # export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='mvim'
-# fi
+ if [[ -n $SSH_CONNECTION ]]; then
+   export EDITOR='nvim'
+ else
+   export EDITOR='vim'
+ fi
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
@@ -102,14 +103,14 @@ alias cl='unimatrix -w -s 98 -c red ; clear'
 alias xx='exit'
 alias wave='wavemon'
 alias pan='pianobar'
-alias vi3='nvim ~/.config/i3/config'
-alias zsh='nvim ~/.zshrc'
-alias inst='sudo pacman -S'
-alias fixit='sudo rm -f /var/lib/pacman/db.lck'
-alias up='yay -Syyu --noconfirm'
-alias add='yay -S'
-alias pk='packer'
-alias opt='sudo pacman-optimize'
+#alias vi3='nvim ~/.config/i3/config'
+alias nzsh='nvim ~/.zshrc'
+alias vim='nvim'
+alias b='byobu'
+#alias inst='sudo pacman -S'
+#alias fixit='sudo rm -f /var/lib/pacman/db.lck'
+alias up='sudo apt update && sudo apt upgrade -y'
+alias add='sudo apt install'
 alias la='ls -A --color=auto -F'
 alias ll='ls -la'
 alias es='exa -al --color=always --group-directories-first'
@@ -121,7 +122,11 @@ alias lln='ls -lA | nms -a -f green'
 alias lan='ls -A --color=auto -F | nms -a -f magenta'
 alias arch='hollywood'
 alias .n='l. | nms -a -f red'
+alias bat='batcat'
 alias uni='unimatrix '
 alias mv='mv -i'
 alias cp='cp -i'
+
+
+source /home/arch/.config/broot/launcher/bash/br
 
