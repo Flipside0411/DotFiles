@@ -13,7 +13,7 @@
 
 3. **Set ALT+TAB to switch windows**  Open settings and find Keyboard shortcuts. Search for 'Switch windows' and map to ALT+TAB.
 
-4. **Install media codecs:**
+4. **Media Codecs:**
 ```
 sudo apt-get install ubuntu-restricted-extras
 ```
@@ -26,18 +26,18 @@ sudo systemctl enable fstrim.timer
 ```
 sudo apt-get install preload   (requires restart)
 ```
-7. **Enable the Firewall:** (search for gufw)
+7. **Firewall:** (search for gufw)
 
-8. **Install Gnome Tweaks from Pop Shop**
+8. **Gnome Tweaks from Pop Shop**
     Customize Fonts:
     -Scaling Fonts:
 
-9. **Install neofetch:** for displaying system information:
+9. **Neofetch:** for displaying system information:
 ```
 sudo apt install neofetch
 ```
 
-10. **Install LibreOffice**
+10. **LibreOffice**
       * [*Microsoft Icons*](https://www.deviantart.com/charliecnr/art/Office-2013-theme-for-LibreOffice-512127527)
       * [*English Dictionaries*](https://extensions.libreoffice.org/extensions/english-dictionaries)
       * [*Microsoft Fonts*]
@@ -46,4 +46,4 @@ sudo apt install neofetch
       ```
       *
 
- 
+11. **PDF editor**
