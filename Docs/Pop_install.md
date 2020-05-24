@@ -9,7 +9,9 @@
     * NVim
     * Alacritty
     * Atom
-    *
+    * Foxit
+    * Okular
+    * 
 
 3. **Set ALT+TAB to switch windows**  Open settings and find Keyboard shortcuts. Search for 'Switch windows' and map to ALT+TAB.
 
@@ -47,3 +49,12 @@ sudo apt install neofetch
       *
 
 11. **PDF editor**
+        * Foxit
+        * Okular 
+          
+12. **Microsoft**
+        * [OneNote](https://www.fosslinux.com/20382/how-to-install-microsoft-onenote-on-linux.htm)
+```
+sudo npm install -g p3x-onenote --unsafe-perm=true --allow-root
+```
+
