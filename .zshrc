@@ -114,6 +114,7 @@ alias add='sudo apt install'
 alias uni='unimatrix '
 alias mv='mv -i'
 alias cp='cp -i'
+alias cpz='cp ~/.zshrc ~/Github/DotFiles/.zshrc'
 
 
 ############################################################################
@@ -137,6 +138,36 @@ alias .n='clear ; l. | nms -a -f red'
 alias arch='hollywood'
 alias bat='batcat'
 alias uni='unimatrix '
+
+############################################################################
+##  GitHub alias
+##
+## git aliases
+function gc { git commit -m "$@"; }
+alias gcm="git checkout master";
+alias gs="git status";
+alias gpull="git pull";
+alias gf="git fetch";
+alias gfa="git fetch --all";
+alias gf="git fetch origin";
+alias gpush="git push";
+alias gd="git diff";
+alias ga="git add .";
+alias gb="git branch";
+alias gbr="git branch remote"
+alias gfr="git remote update"
+alias gbn="git checkout -B "
+alias grf="git reflog";
+alias grh="git reset HEAD~" # last commit
+alias gac="git add . && git commit -a -m "
+alias gsu="git gpush --set-upstream origin "
+alias glog="git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --branches"u
+
+
+
+
+
+
 
 
 
