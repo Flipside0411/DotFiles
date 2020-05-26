@@ -5,13 +5,14 @@
 1. **Update the OS:**  Launch Pop! Shop, click the installed tab, install all available Operations System Update
 
 2. **Add Favorite apps to dash:**  Add System
-    * Brave Browser
-    * NVim
-    * Alacritty
-    * Atom
-    * Foxit
-    * Okular
-    * 
+    * []Brave Browser
+    * []NVim
+    * []Alacritty
+    * []Atom
+    * []Foxit
+    * []Okular
+    * []DropBox
+    * []
 
 3. **Set ALT+TAB to switch windows**  Open settings and find Keyboard shortcuts. Search for 'Switch windows' and map to ALT+TAB.
 

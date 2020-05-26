@@ -29,7 +29,7 @@ ZSH_THEME='agnoster'
 # DISABLE_AUTO_UPDATE="true"
 
 # Uncomment the following line to automatically update without prompting.
-# DISABLE_UPDATE_PROMPT="true"
+DISABLE_UPDATE_PROMPT="true"
 
 # Uncomment the following line to change how often to auto-update (in days).
 # export UPDATE_ZSH_DAYS=13
@@ -95,22 +95,31 @@ source $ZSH/oh-my-zsh.sh
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
-#
+
+
+############################################################################
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
 alias cl='unimatrix -w -s 98 -c red ; clear'
 alias xx='exit'
 alias wave='wavemon'
 alias pan='pianobar'
-#alias vi3='nvim ~/.config/i3/config'
 alias nzsh='nvim ~/.zshrc'
 alias vim='nvim'
 alias b='byobu'
-#alias inst='sudo pacman -S'
-#alias fixit='sudo rm -f /var/lib/pacman/db.lck'
 alias up='sudo apt update && sudo apt upgrade -y'
 alias add='sudo apt install'
+alias uni='unimatrix '
+alias mv='mv -i'
+alias cp='cp -i'
+alias cpz='cp ~/.zshrc ~/Github/DotFiles/.zshrc'
+
+
+############################################################################
+## Listing of files
+
 alias la='ls -A --color=auto -F'
 alias ll='ls -la'
 alias es='exa -al --color=always --group-directories-first'
@@ -118,15 +127,48 @@ alias ea='exa -a --color=always --group-directories-first'
 alias el='exa -l --color=always --group-directories-first'
 alias et='exa -aT --color=always --group-directories-first'
 alias l.="ls -A | egrep '^\.'"
-alias lln='ls -lA | nms -a -f green'
-alias lan='ls -A --color=auto -F | nms -a -f magenta'
+alias lln='clear ; ls -lA | nms -a -f green'
+alias lan='clear ; ls -A --color=auto -F | nms -a -f magenta'
+alias .n='clear ; l. | nms -a -f red'
+
+############################################################################
+## Misc add ons 
+##
+
 alias arch='hollywood'
-alias .n='l. | nms -a -f red'
 alias bat='batcat'
 alias uni='unimatrix '
-alias mv='mv -i'
-alias cp='cp -i'
+
+############################################################################
+##  GitHub alias
+##
+## git aliases
+function gc { git commit -m "$@"; }
+alias gcm="git checkout master";
+alias gs="git status";
+alias gpull="git pull";
+alias gf="git fetch";
+alias gfa="git fetch --all";
+alias gf="git fetch origin";
+alias gpush="git push";
+alias gd="git diff";
+alias ga="git add .";
+alias gb="git branch";
+alias gbr="git branch remote"
+alias gfr="git remote update"
+alias gbn="git checkout -B "
+alias grf="git reflog";
+alias grh="git reset HEAD~" # last commit
+alias gac="git add . && git commit -a -m "
+alias gsu="git gpush --set-upstream origin "
+alias glog="git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --branches"u
+
+
+
+
+
+
+
 
 
 source /home/arch/.config/broot/launcher/bash/br
-
