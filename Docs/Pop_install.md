@@ -1,4 +1,4 @@
-# Things to do after installation:
+# Pop OS: Things to do after installation:
 
 ---
 
