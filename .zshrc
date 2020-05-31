@@ -2,8 +2,8 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/home/arch/.oh-my-zsh"
-export exa='/home/arch/.cargo/bin/'
+export ZSH="/home/archangel/.oh-my-zsh"
+export exa='/home/archangel/.cargo/bin/'
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -109,6 +109,7 @@ alias pan='pianobar'
 alias nzsh='nvim ~/.zshrc'
 alias vim='nvim'
 alias b='byobu'
+alias rg='ranger'
 alias up='sudo apt update && sudo apt upgrade -y'
 alias add='sudo apt install'
 alias uni='unimatrix '
@@ -143,6 +144,7 @@ alias uni='unimatrix '
 ##  GitHub alias
 ##
 ## git aliases
+
 function gc { git commit -m "$@"; }
 alias gcm="git checkout master";
 alias gs="git status";
@@ -171,4 +173,4 @@ alias glog="git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%
 
 
 
-source /home/arch/.config/broot/launcher/bash/br
+#source /home/arch/.config/broot/launcher/bash/br
