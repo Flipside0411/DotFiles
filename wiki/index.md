@@ -1,7 +1,7 @@
 # Master List
 
-Linux
+[Linux](Linux)
 
-Programing 
+[Programing](Programing) 
 
 
