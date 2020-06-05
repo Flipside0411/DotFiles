@@ -1,0 +1,7 @@
+# Master List
+
+Linux
+
+Programing 
+
+
