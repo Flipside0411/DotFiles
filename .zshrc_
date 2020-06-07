@@ -128,7 +128,6 @@ alias mv='mv -i'
 alias cp='cp -i'
 alias cpz='cp ~/.zshrc ~/Github/DotFiles/.zshrc'
 
-
 ############################################################################
 ## Listing of files
 
