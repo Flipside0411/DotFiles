@@ -1,0 +1,9 @@
+# Contents of Each Bag:
+
+
+
+
+
+
+
+
