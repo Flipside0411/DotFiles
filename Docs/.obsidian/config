@@ -1,0 +1,63 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Page preview": true,
+    "Daily notes": true,
+    "Audio recorder": true
+  },
+  "isSidebarCollapsed": true,
+  "isRightSidedockCollapsed": true,
+  "lastOpenSidebarTab": "File explorer",
+  "workspaceLayout": {
+    "id": "d98aaa75156c4a64",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "acd074b7ee8f90e7",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2020-06-09.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b66f95fa01e82c75",
+        "type": "leaf",
+        "dimension": null,
+        "active": false,
+        "master": "acd074b7ee8f90e7",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2020-06-09.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ]
+  },
+  "lastOpenFiles": [
+    "2020-06-09.md",
+    "Untitled.md",
+    "Pop_install.md",
+    "POP OS Load note.md"
+  ],
+  "lastOpenRightSidedockTab": "Backlinks",
+  "showLineNumber": true
+}
