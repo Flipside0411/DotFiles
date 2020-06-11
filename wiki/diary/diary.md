@@ -10,5 +10,7 @@ I have installed Rambox, Gnome tweeks, WPS,
 # Jun 8, 2020 
 
   Setting up all my bags for [EDC](EDC).
-  
-  
+ 
+# Jun 11, 2020
+
+

@@ -47,12 +47,12 @@ sudo apt install neofetch
       ```
       sudo apt install ttf-mscorefonts-installer
       ```
-      *
+
 
 11. **PDF editor**
         * Foxit
         * Okular 
-          
+ 
 12. **Microsoft**
         * [OneNote](https://www.fosslinux.com/20382/how-to-install-microsoft-onenote-on-linux.htm)
 ```
