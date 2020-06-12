@@ -13,4 +13,4 @@ I have installed Rambox, Gnome tweeks, WPS,
  
 # Jun 11, 2020
 
-
+  Still working on listing all my EDC / Go Bag inventory. 
