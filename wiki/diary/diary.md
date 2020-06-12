@@ -25,13 +25,3 @@
   surface go. 
  
 I have installed Rambox, Gnome tweeks, WPS, 
-<<<<<<< HEAD
-
-
-# Jun 8, 2020 
-
-  Setting up all my bags for [EDC](EDC).
- 
-# Jun 11, 2020
-
-  Still working on listing all my EDC / Go Bag inventory. 
