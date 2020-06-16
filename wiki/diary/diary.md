@@ -1,5 +1,13 @@
 
 
+# Jun 15, 2020 
+  
+  Today I uploaded the request for Christy to be added to the savings account at USAA.
+  USAA said that it should take seven to ten days for it to take effect.  Will have to 
+  follow up.  Yesterday for some reason I'm not sure but my lenovo laptop locked up and was 
+  unable to boot into the system. I have to do a fresh install of POP Os and now I have to
+  start the process of reloading all the applications and settings. 
+
 
 # Jun 11, 2020
 
