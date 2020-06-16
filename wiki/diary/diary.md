@@ -9,6 +9,11 @@
   start the process of reloading all the applications and settings. 
 
 
+# Jun 13, 2020
+
+  *Saturday* 
+  Today I did the wash and worked on some code within my zshrc/vim init files.
+  
 # Jun 11, 2020
 
   Got a call from Josh about starting work on the 18th. Still working the swing shift 
