@@ -1,7 +1,24 @@
 
+ 
+# Jun 17, 2020
+
+  Last day of freedom from work, lol, tomorrow I start back to work for the casino. I'm looking 
+  forward to getting back to work.  It is almost two and still haven't seen my monitor stand, it 
+  is to be delivered by UPS. Amazon is not meeting up with it's delivery listing. My monitor stand 
+  said it would be delivered the next day and it has been over two weeks now. 
+  Christy got German take out for dinner, it was very good and super filling. 
+
+  - Received mats for car 
+  - Received monitor stand 
+  - 
+
+# Jun 16, 2020
+
+  So I cleaned the kitchen, floors, picked up mail, finished setting up my shoulder bag for work.
+ 
 
 # Jun 15, 2020 
-  
+ 
   Today I uploaded the request for Christy to be added to the savings account at USAA.
   USAA said that it should take seven to ten days for it to take effect.  Will have to 
   follow up.  Yesterday for some reason I'm not sure but my lenovo laptop locked up and was 
@@ -13,7 +30,7 @@
 
   *Saturday* 
   Today I did the wash and worked on some code within my zshrc/vim init files.
-  
+ 
 # Jun 11, 2020
 
   Got a call from Josh about starting work on the 18th. Still working the swing shift 
@@ -30,7 +47,7 @@
 # Jun 8, 2020 
 
   Setting up all my bags for [EDC](EDC).
-  
+ 
 # Jun 5, 2020
   I have started setting up vimwiki for both my notes and journaling/diary from within
   wiki. I'm going to start tracking how I setup all my systems.  Now that I have changed 

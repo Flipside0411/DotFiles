@@ -1,6 +1,6 @@
 # Contents of Each Bag:
 
-_Sholder Pack_
+_Sling Pack_
     - Top pocket
       - Mini pocket knife
       - Lip balm
@@ -31,6 +31,10 @@ _Sholder Pack_
       - Pen
       - Battery Power pack
       - 
+
+_Nomadic Backpack_
+
+_Gray Backpack_
 
 
 
