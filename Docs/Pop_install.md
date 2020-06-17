@@ -1,18 +1,31 @@
 # Pop OS: Things to do after installation:
-
 ---
 
 1. **Update the OS:**  Launch Pop! Shop, click the installed tab, install all available Operations System Update
+1. **Install ZSH**
+```
+sudo apt-get install zsh
+```
+**Oh-my-zsh** https://ohmyz.sh/
+```
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
 
-2. **Add Favorite apps to dash:**  Add System
-    * []Brave Browser
-    * []NVim
-    * []Alacritty
-    * []Atom
-    * []Foxit
-    * []Okular
-    * []DropBox
-    * []
+[*Install Powerline10k*](https://github.com/romkatv/powerlevel10k)
+```
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
+```
+
+
+3. **Add Favorite apps to dash:**  Add System
+    * [ ]Brave Browser
+    * [ ]NVim
+    * [ ]Alacritty
+    * [ ]Atom
+    * [ ]Foxit
+    * [ ]Okular
+    * [ ]DropBox
+    * [ ]
 
 3. **Set ALT+TAB to switch windows**  Open settings and find Keyboard shortcuts. Search for 'Switch windows' and map to ALT+TAB.
 

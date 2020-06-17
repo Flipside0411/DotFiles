@@ -19,45 +19,96 @@
   "workspaceLayout": {
     "id": "d98aaa75156c4a64",
     "type": "split",
-    "dimension": null,
-    "direction": "vertical",
     "children": [
       {
         "id": "acd074b7ee8f90e7",
         "type": "leaf",
-        "dimension": null,
         "active": true,
-        "master": "",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2020-06-09.md",
+            "file": "Pop_install.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "5e8f63bc534896ac"
       },
       {
-        "id": "b66f95fa01e82c75",
+        "id": "4893586f3dde89df",
         "type": "leaf",
-        "dimension": null,
-        "active": false,
-        "master": "acd074b7ee8f90e7",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2020-06-09.md",
-            "mode": "preview"
+            "file": "Pop_install.md",
+            "mode": "source"
           }
-        }
+        },
+        "group": "5e8f63bc534896ac"
       }
-    ]
+    ],
+    "direction": "vertical"
   },
   "lastOpenFiles": [
-    "2020-06-09.md",
-    "Untitled.md",
     "Pop_install.md",
-    "POP OS Load note.md"
+    "2020-06-09.md",
+    "Pop_Keyboard.md",
+    "POP OS Load note.md",
+    "Untitled.md"
   ],
   "lastOpenRightSidedockTab": "Backlinks",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "leftSidedock": {
+    "id": "0702068a1ee0175b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7080ea206a1be168",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "356cec8c7146040d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "185dd21788096b05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "rightSidedock": {
+    "id": "a2156d8a7475da56",
+    "type": "split",
+    "children": [
+      {
+        "id": "c82bf4f6e1595942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88d42529d3068cf5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "vimMode": true
 }
