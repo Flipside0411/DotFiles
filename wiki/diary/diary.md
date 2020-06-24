@@ -1,12 +1,25 @@
 # Daily Journal
 
+_Jun 24, 2020_
+First day off, I got Kathryn's birthday gift in from Amazon today, I hope that
+she likes it. She said that she wanted a wireless headset for her phone but
+didn't want airpods, she wanted the old school kind.  
+_Jun 23, 2020_
+Finishing up my first week of work, it has been pretty easy to get back in the
+swing of work. It's still the same old stuff that goes on at any Casino, it's
+just the procedures that are different. It also looks like I might be promoted
+to assistant shift supervisor. It will be a small pay increase but that answer
+will not be until next week. So we'll see what happens. Sitting here looking
+at pictures of all my grandkids and it makes my heart full, I might not have
+done any good in this world but I did help bring in two very beautiful and smart
+daughters. They are my best achievements I could ever wish for.
+
 _Jun 18, 2020_
 Well the day has come to head back to work. It will be interesting to see how
 the casino will be setup for both players and employees. I also want see who
 is working for the company.
 
 _Jun 17, 2020_
-
 Last day of freedom from work, lol, tomorrow I start back to work for the casino.
 I'm looking forward to getting back to work. It is almost two and still haven't
 seen my monitor stand, it is to be delivered by UPS. Amazon is not meeting up
@@ -18,12 +31,10 @@ Christy got German take out for dinner, it was very good and super filling.
 - Received monitor stand
 
 _Jun 16, 2020_
-
 So I cleaned the kitchen, floors, picked up mail, finished setting up my
 shoulder bag for work.
 
 _Jun 15, 2020_
-
 Today I uploaded the request for Christy to be added to the savings account at
 USAA. USAA said that it should take seven to ten days for it to take effect.
 Will have to follow up. Yesterday for some reason I'm not sure but my lenovo
@@ -32,12 +43,10 @@ install of POP Os and now I have to start the process of reloading all the
 applications and settings.
 
 _Jun 13, 2020_
-
 _Saturday_
 Today I did the wash and worked on some code within my zshrc/vim init files.
 
 _Jun 11, 2020_
-
 Got a call from Josh about starting work on the 18th. Still working the swing
 shift but my new days off will be Wednesday & Thursday. The first week will be
 a six day week due to they want all staff in a day before the casino opens up
