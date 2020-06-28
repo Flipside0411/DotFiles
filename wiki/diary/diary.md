@@ -1,5 +1,15 @@
 # Daily Journal
 
+Jun 28, 2020
+Today is the first day of me being a dual rate supervisor, it makes me a little
+nervus taking on this responsibility I'm sure that I can do the job but I'm
+still uncertain of all actions in given situations. I will get through it and
+grow to be a better at surveillance operations within this company, but I have
+to admit from what little I have seen, this company is much better than the
+last one I worked for. With Richard set to leave on July 16th and the
+uncertainty of who will take over as Surveillance Manager and how that person
+will run the department makes for some stress in side of the department. It
+just makes what the future holds up in the air.
 _Jun 24, 2020_
 First day off, I got Kathryn's birthday gift in from Amazon today, I hope that
 she likes it. She said that she wanted a wireless headset for her phone but
@@ -70,3 +80,4 @@ over all my computers to Linux the only computer that I'll keep windows on will
 be the surface go.
 
 I have installed Rambox, Gnome tweeks, WPS,
+
