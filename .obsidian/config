@@ -8,65 +8,34 @@
     "Backlinks": true,
     "Command palette": true,
     "Markdown format importer": true,
-    "Word count": true,
-    "Page preview": true,
-    "Daily notes": true,
-    "Audio recorder": true
+    "Word count": true
   },
-  "isSidebarCollapsed": true,
-  "isRightSidedockCollapsed": true,
-  "lastOpenSidebarTab": "File explorer",
   "workspaceLayout": {
-    "id": "d98aaa75156c4a64",
+    "id": "307eaf248d612191",
     "type": "split",
     "children": [
       {
-        "id": "acd074b7ee8f90e7",
+        "id": "443ea9650a87ccd7",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Pop_Keyboard.md",
-            "mode": "source"
-          }
-        },
-        "group": "5e8f63bc534896ac"
-      },
-      {
-        "id": "4893586f3dde89df",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Pop_Keyboard.md",
-            "mode": "source"
-          }
-        },
-        "group": "5e8f63bc534896ac"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
   },
-  "lastOpenFiles": [
-    "Pop_Keyboard.md",
-    "Pop_install.md",
-    "2020-06-09.md",
-    "POP OS Load note.md",
-    "Untitled.md"
-  ],
-  "lastOpenRightSidedockTab": "Backlinks",
-  "showLineNumber": true,
   "leftSidedock": {
-    "id": "0702068a1ee0175b",
+    "id": "f50a114b1ad401c8",
     "type": "split",
     "children": [
       {
-        "id": "7080ea206a1be168",
+        "id": "72d1fd690defa61b",
         "type": "tabs",
         "children": [
           {
-            "id": "356cec8c7146040d",
+            "id": "b1f7e8a3221df400",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -74,7 +43,7 @@
             }
           },
           {
-            "id": "185dd21788096b05",
+            "id": "9c9faaf4b0e15554",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -85,18 +54,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 300,
+    "collapsed": true
   },
   "rightSidedock": {
-    "id": "a2156d8a7475da56",
+    "id": "b51ff9e2f927f941",
     "type": "split",
     "children": [
       {
-        "id": "c82bf4f6e1595942",
+        "id": "c7562e7969858e75",
         "type": "tabs",
         "children": [
           {
-            "id": "88d42529d3068cf5",
+            "id": "7ec23f9d958a10b1",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -110,5 +80,7 @@
     "width": 300,
     "collapsed": true
   },
-  "vimMode": true
+  "lastOpenFiles": [
+    "wiki/diary/diary.md"
+  ]
 }
