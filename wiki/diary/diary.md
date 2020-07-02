@@ -1,8 +1,17 @@
 # Daily Journal
 
-
+**July 2, 2020**
+Today has been a good day, I got some thing I wanted to do done and did some
+gaming on the xbox. Christy and I had Chinese food from China Bell our normal
+dinner. Some how today I strained a muscles in my back not sure how that happened.
+Still working on or should I say tweaking on my vim configuration file. I really
+need to finish my Linux class and start working on the Python class. I need to
+also sit down and set some goals for the second half of the year. With all of
+this Covid-19 situation going on I really don't know how the rest of the year
+will go.  
 **July 1, 2020**
-The first day of  July, this year is going so fast, before long it's going to start getting cold again. I'm not looking forward to that. 
+The first day of July, this year is going so fast, before long it's going to
+start getting cold again. I'm not looking forward to that.
 **Jun 28, 2020**
 Today is the first day of me being a dual rate supervisor, it makes me a little
 nervus taking on this responsibility I'm sure that I can do the job but I'm
@@ -17,7 +26,7 @@ just makes what the future holds up in the air.
 **Jun 24, 2020**
 First day off, I got Kathryn's birthday gift in from Amazon today, I hope that
 she likes it. She said that she wanted a wireless headset for her phone but
-didn't want airpods, she wanted the old school kind.  
+didn't want airpods, she wanted the old school kind.
 
 **Jun 23, 2020**
 Finishing up my first week of work, it has been pretty easy to get back in the
@@ -83,4 +92,3 @@ over all my computers to Linux the only computer that I'll keep windows on will
 be the surface go.
 
 I have installed Rambox, Gnome tweeks, WPS,
-
