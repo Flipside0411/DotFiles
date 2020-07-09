@@ -1,5 +1,7 @@
 # Daily Journal
 
+__July 7, 2020__
+Well this week at work has been crazy with the amount of reports that I've had 
 **July 2, 2020**
 Today has been a good day, I got some thing I wanted to do done and did some
 gaming on the xbox. Christy and I had Chinese food from China Bell our normal
