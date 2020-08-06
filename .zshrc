@@ -1,9 +1,16 @@
+# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
+# Initialization code that may require console input (password prompts, [y/n]
+# confirmations, etc.) must go above this block; everything else may go below.
+if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+fi
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/home/archangel/.oh-my-zsh"
-export exa='/home/archangel/.cargo/bin/'
+export ZSH="/home/arch/.oh-my-zsh"
+export exa='/home/arch/.cargo/bin/'
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -101,6 +108,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+#
 
 alias cl='unimatrix -w -s 98 -c red ; clear'
 alias xx='exit'
@@ -120,6 +128,7 @@ alias cpz='cp ~/.zshrc ~/Github/DotFiles/.zshrc'
 
 ############################################################################
 ## Listing of files
+##
 
 alias la='ls -A --color=auto -F'
 alias ll='ls -la'
@@ -143,16 +152,15 @@ alias uni='unimatrix '
 ############################################################################
 ##  GitHub alias
 ##
-## git aliases
 
 function gc { git commit -m "$@"; }
 alias gcm="git checkout master";
 alias gs="git status";
-alias gpull="git pull";
+alias gp="git pull";
 alias gf="git fetch";
 alias gfa="git fetch --all";
 alias gf="git fetch origin";
-alias gpush="git push";
+alias gh="git push";
 alias gd="git diff";
 alias ga="git add .";
 alias gb="git branch";
@@ -174,3 +182,7 @@ alias glog="git log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%
 
 
 #source /home/arch/.config/broot/launcher/bash/br
+source ~/powerlevel10k/powerlevel10k.zsh-theme
+
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
