@@ -1,7 +1,14 @@
 # Daily Journal
 
-__July 7, 2020__
-Well this week at work has been crazy with the amount of reports that I've had 
+**Aug 28, 2020**
+Today I worked on setting up my NAS server with the Pi 3B+. I'm trying to also
+setup the 8Gb pi with Kali but it's giving me some issues with setting up VNC
+so that I can remote with full GUI. I have started to also work on my
+documentation using Notion.
+
+**July 7, 2020**
+Well this week at work has been crazy with the amount of reports that I've had
+
 **July 2, 2020**
 Today has been a good day, I got some thing I wanted to do done and did some
 gaming on the xbox. Christy and I had Chinese food from China Bell our normal
@@ -10,10 +17,12 @@ Still working on or should I say tweaking on my vim configuration file. I really
 need to finish my Linux class and start working on the Python class. I need to
 also sit down and set some goals for the second half of the year. With all of
 this Covid-19 situation going on I really don't know how the rest of the year
-will go.  
+will go.
+
 **July 1, 2020**
 The first day of July, this year is going so fast, before long it's going to
 start getting cold again. I'm not looking forward to that.
+
 **Jun 28, 2020**
 Today is the first day of me being a dual rate supervisor, it makes me a little
 nervus taking on this responsibility I'm sure that I can do the job but I'm
