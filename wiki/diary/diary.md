@@ -1,5 +1,16 @@
 # Daily Journal
 
+**Sept 10, 2020**
+Today I'm going to try and buy a stocks in [CPRX] Catalyst Pharmaceuticals, the
+plan is to buy 60 shares at $3.10. The data shows the opening price should be
+around $3.15 or \$3.16 but should drop after the opening bell. We will see
+**Sept 9, 2020**
+I'm starting to get into Day Trading, I'm working on finding away to better our
+future. I'm going this smart, trying to grow it from a small investment and from
+there see were I can take it. I'll write down what I'm think day that do
+trading, stocks that I'm looking at for the day, if I take a position for the
+day I'll do my best to update this journal with the information.
+
 **Aug 28, 2020**
 Today I worked on setting up my NAS server with the Pi 3B+. I'm trying to also
 setup the 8Gb pi with Kali but it's giving me some issues with setting up VNC
